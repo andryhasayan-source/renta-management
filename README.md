@@ -69,31 +69,31 @@
 
 **Главная — сводка по всем объектам:**
 
-![Dashboard](screenshots/6.png)
+![Dashboard](screenshots/1.png)
 
 **Объекты и единицы аренды:**
 
-![Objects](screenshots/7.png)
+![Objects](screenshots/2.png)
 
 **Арендаторы:**
 
-![Tenants](screenshots/1.png)
+![Tenants](screenshots/3.png)
 
 **Договоры аренды:**
 
-![Contracts](screenshots/2.png)
+![Contracts](screenshots/4.png)
 
 **Платежи с аренды — контроль поступлений:**
 
-![Payments](screenshots/3.png)
+![Payments](screenshots/5.png)
 
 **Коммунальные платежи:**
 
-![Utilities](screenshots/4.png)
+![Utilities](screenshots/6.png)
 
 **Аналитика — доходы, расходы, ROI:**
 
-![Analytics](screenshots/5.png)
+![Analytics](screenshots/7.png)
 
 ---
 
