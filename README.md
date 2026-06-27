@@ -113,7 +113,7 @@ Source code is not public. Commercial product by **ShashevPro**.
 **Купить лицензию · Buy a license:**
 
 - 🌐 [shashevpro.ru](https://www.shashevpro.ru)
-- 🛒 [kwork.ru/user/andreysha256](https://kwork.ru/user/andreysha256)
+- 🛒 [kwork.ru/user/shashevpro](https://kwork.ru/user/shashevpro)
 - ✉️ programmer@shashevpro.ru
 - 💬 [vk.com/andrey_shashev](https://vk.com/andrey_shashev)
 
